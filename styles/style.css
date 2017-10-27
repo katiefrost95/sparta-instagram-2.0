@@ -115,3 +115,15 @@ form input {
 .footcenter {
   text-align: center;
 }
+@media only screen and (max-width: 600px) {
+  body {
+    width: 100%;
+    margin: auto;
+  }
+  .two img {
+    display: none;
+  }
+  .container {
+
+  }
+}
