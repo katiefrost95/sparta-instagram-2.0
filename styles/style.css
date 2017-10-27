@@ -1,0 +1,117 @@
+body {
+  padding-top: 40px;
+  background-color: #FAFAFA;
+}
+.one {
+  background-color: #FAFAFA;
+}
+.two{
+  background-color: #FAFAFA;
+}
+.two img {
+  padding: 50px;
+}
+.three {
+  background-color: #FAFAFA;
+}
+.main {
+  background-color: white;
+  display: block;
+  margin: auto;
+  border: 1px solid #e6e6e6;
+  text-align: center;
+}
+.main img {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+}
+p {
+  line-height: 18px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #999;
+}
+.head {
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: 600;
+  margin:0 20px 0 20px;
+  width: 330px;
+  height: 36px;
+}
+.buttons1 input {
+  background-color: #3897f0;
+  border-color: #3897f0;
+  border-radius: 5px;
+  color: white;
+  margin: 0 40px 20px 45px;
+  font-weight: bold;
+}
+form input {
+  background-color: #FAFAFA;
+  font-size: 14px;
+  position: relative;
+  border: 1px solid #efefef;
+  width: 268px;
+  height: 36px;
+  margin:5px;
+}
+.buttons2 input {
+  background-color: #3897f0;
+  border-color: #3897f0;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+.tandc {
+  font-size: 14px;
+  padding: 15px;
+}
+.login {
+  text-align: center;
+  background-color: white;
+  display: inline-block;
+  border: 1px solid #e6e6e6;
+  width: 350px;
+  height: 70px;
+  margin-top: 10px;
+}
+.accountlogin {
+  color: #262626;
+  font-size: 14px;
+  margin: 25px 0 0 0;
+}
+.app {
+  display: block;
+  margin: auto;
+  text-align: center;
+  color: black;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 20px;
+}
+.appPics img {
+  display: inline-block;
+  margin:auto;
+  width: 103px;
+  height: 115px;
+}
+.four {
+  background-color: #FAFAFA;
+}
+.footer {
+  width: 100%;
+  height: 70px;
+}
+.footlink {
+  display: inline-block;
+  margin: auto;
+  color: #003569;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 13px;
+}
+.footcenter {
+  text-align: center;
+}
